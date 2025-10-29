@@ -1,0 +1,1295 @@
+
+-------------------------
+Conjectura de Collatz
+-------------------------
+Digite até qual número você deseja testar, por favor: 
+O universo analisado será de 1 até o número escolhido.
+31
+ 
+Realizando os cálculos, por favor aguarde...
+------------------------------
+ 
+Realizando a conjectura para o número:  1
+------------------------------
+ 
+>> Sendo  1 o resultado final da conjectura do número  1
+------------------------------
+ 
+Realizando a conjectura para o número:  2
+------------------------------
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  2
+------------------------------
+ 
+Realizando a conjectura para o número:  3
+------------------------------
+>> O  3 é ímpar.
+>> Logo, ( 3 x 3) + 1 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  3
+------------------------------
+ 
+Realizando a conjectura para o número:  4
+------------------------------
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  4
+------------------------------
+ 
+Realizando a conjectura para o número:  5
+------------------------------
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  5
+------------------------------
+ 
+Realizando a conjectura para o número:  6
+------------------------------
+>> O  6 é par.
+>> Logo,  6 / 2 resulta em:  3
+>> O  3 é ímpar.
+>> Logo, ( 3 x 3) + 1 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  6
+------------------------------
+ 
+Realizando a conjectura para o número:  7
+------------------------------
+>> O  7 é ímpar.
+>> Logo, ( 7 x 3) + 1 resulta em:  22
+>> O  22 é par.
+>> Logo,  22 / 2 resulta em:  11
+>> O  11 é ímpar.
+>> Logo, ( 11 x 3) + 1 resulta em:  34
+>> O  34 é par.
+>> Logo,  34 / 2 resulta em:  17
+>> O  17 é ímpar.
+>> Logo, ( 17 x 3) + 1 resulta em:  52
+>> O  52 é par.
+>> Logo,  52 / 2 resulta em:  26
+>> O  26 é par.
+>> Logo,  26 / 2 resulta em:  13
+>> O  13 é ímpar.
+>> Logo, ( 13 x 3) + 1 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  7
+------------------------------
+ 
+Realizando a conjectura para o número:  8
+------------------------------
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  8
+------------------------------
+ 
+Realizando a conjectura para o número:  9
+------------------------------
+>> O  9 é ímpar.
+>> Logo, ( 9 x 3) + 1 resulta em:  28
+>> O  28 é par.
+>> Logo,  28 / 2 resulta em:  14
+>> O  14 é par.
+>> Logo,  14 / 2 resulta em:  7
+>> O  7 é ímpar.
+>> Logo, ( 7 x 3) + 1 resulta em:  22
+>> O  22 é par.
+>> Logo,  22 / 2 resulta em:  11
+>> O  11 é ímpar.
+>> Logo, ( 11 x 3) + 1 resulta em:  34
+>> O  34 é par.
+>> Logo,  34 / 2 resulta em:  17
+>> O  17 é ímpar.
+>> Logo, ( 17 x 3) + 1 resulta em:  52
+>> O  52 é par.
+>> Logo,  52 / 2 resulta em:  26
+>> O  26 é par.
+>> Logo,  26 / 2 resulta em:  13
+>> O  13 é ímpar.
+>> Logo, ( 13 x 3) + 1 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  9
+------------------------------
+ 
+Realizando a conjectura para o número:  10
+------------------------------
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  10
+------------------------------
+ 
+Realizando a conjectura para o número:  11
+------------------------------
+>> O  11 é ímpar.
+>> Logo, ( 11 x 3) + 1 resulta em:  34
+>> O  34 é par.
+>> Logo,  34 / 2 resulta em:  17
+>> O  17 é ímpar.
+>> Logo, ( 17 x 3) + 1 resulta em:  52
+>> O  52 é par.
+>> Logo,  52 / 2 resulta em:  26
+>> O  26 é par.
+>> Logo,  26 / 2 resulta em:  13
+>> O  13 é ímpar.
+>> Logo, ( 13 x 3) + 1 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  11
+------------------------------
+ 
+Realizando a conjectura para o número:  12
+------------------------------
+>> O  12 é par.
+>> Logo,  12 / 2 resulta em:  6
+>> O  6 é par.
+>> Logo,  6 / 2 resulta em:  3
+>> O  3 é ímpar.
+>> Logo, ( 3 x 3) + 1 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  12
+------------------------------
+ 
+Realizando a conjectura para o número:  13
+------------------------------
+>> O  13 é ímpar.
+>> Logo, ( 13 x 3) + 1 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  13
+------------------------------
+ 
+Realizando a conjectura para o número:  14
+------------------------------
+>> O  14 é par.
+>> Logo,  14 / 2 resulta em:  7
+>> O  7 é ímpar.
+>> Logo, ( 7 x 3) + 1 resulta em:  22
+>> O  22 é par.
+>> Logo,  22 / 2 resulta em:  11
+>> O  11 é ímpar.
+>> Logo, ( 11 x 3) + 1 resulta em:  34
+>> O  34 é par.
+>> Logo,  34 / 2 resulta em:  17
+>> O  17 é ímpar.
+>> Logo, ( 17 x 3) + 1 resulta em:  52
+>> O  52 é par.
+>> Logo,  52 / 2 resulta em:  26
+>> O  26 é par.
+>> Logo,  26 / 2 resulta em:  13
+>> O  13 é ímpar.
+>> Logo, ( 13 x 3) + 1 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  14
+------------------------------
+ 
+Realizando a conjectura para o número:  15
+------------------------------
+>> O  15 é ímpar.
+>> Logo, ( 15 x 3) + 1 resulta em:  46
+>> O  46 é par.
+>> Logo,  46 / 2 resulta em:  23
+>> O  23 é ímpar.
+>> Logo, ( 23 x 3) + 1 resulta em:  70
+>> O  70 é par.
+>> Logo,  70 / 2 resulta em:  35
+>> O  35 é ímpar.
+>> Logo, ( 35 x 3) + 1 resulta em:  106
+>> O  106 é par.
+>> Logo,  106 / 2 resulta em:  53
+>> O  53 é ímpar.
+>> Logo, ( 53 x 3) + 1 resulta em:  160
+>> O  160 é par.
+>> Logo,  160 / 2 resulta em:  80
+>> O  80 é par.
+>> Logo,  80 / 2 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  15
+------------------------------
+ 
+Realizando a conjectura para o número:  16
+------------------------------
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  16
+------------------------------
+ 
+Realizando a conjectura para o número:  17
+------------------------------
+>> O  17 é ímpar.
+>> Logo, ( 17 x 3) + 1 resulta em:  52
+>> O  52 é par.
+>> Logo,  52 / 2 resulta em:  26
+>> O  26 é par.
+>> Logo,  26 / 2 resulta em:  13
+>> O  13 é ímpar.
+>> Logo, ( 13 x 3) + 1 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  17
+------------------------------
+ 
+Realizando a conjectura para o número:  18
+------------------------------
+>> O  18 é par.
+>> Logo,  18 / 2 resulta em:  9
+>> O  9 é ímpar.
+>> Logo, ( 9 x 3) + 1 resulta em:  28
+>> O  28 é par.
+>> Logo,  28 / 2 resulta em:  14
+>> O  14 é par.
+>> Logo,  14 / 2 resulta em:  7
+>> O  7 é ímpar.
+>> Logo, ( 7 x 3) + 1 resulta em:  22
+>> O  22 é par.
+>> Logo,  22 / 2 resulta em:  11
+>> O  11 é ímpar.
+>> Logo, ( 11 x 3) + 1 resulta em:  34
+>> O  34 é par.
+>> Logo,  34 / 2 resulta em:  17
+>> O  17 é ímpar.
+>> Logo, ( 17 x 3) + 1 resulta em:  52
+>> O  52 é par.
+>> Logo,  52 / 2 resulta em:  26
+>> O  26 é par.
+>> Logo,  26 / 2 resulta em:  13
+>> O  13 é ímpar.
+>> Logo, ( 13 x 3) + 1 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  18
+------------------------------
+ 
+Realizando a conjectura para o número:  19
+------------------------------
+>> O  19 é ímpar.
+>> Logo, ( 19 x 3) + 1 resulta em:  58
+>> O  58 é par.
+>> Logo,  58 / 2 resulta em:  29
+>> O  29 é ímpar.
+>> Logo, ( 29 x 3) + 1 resulta em:  88
+>> O  88 é par.
+>> Logo,  88 / 2 resulta em:  44
+>> O  44 é par.
+>> Logo,  44 / 2 resulta em:  22
+>> O  22 é par.
+>> Logo,  22 / 2 resulta em:  11
+>> O  11 é ímpar.
+>> Logo, ( 11 x 3) + 1 resulta em:  34
+>> O  34 é par.
+>> Logo,  34 / 2 resulta em:  17
+>> O  17 é ímpar.
+>> Logo, ( 17 x 3) + 1 resulta em:  52
+>> O  52 é par.
+>> Logo,  52 / 2 resulta em:  26
+>> O  26 é par.
+>> Logo,  26 / 2 resulta em:  13
+>> O  13 é ímpar.
+>> Logo, ( 13 x 3) + 1 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  19
+------------------------------
+ 
+Realizando a conjectura para o número:  20
+------------------------------
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  20
+------------------------------
+ 
+Realizando a conjectura para o número:  21
+------------------------------
+>> O  21 é ímpar.
+>> Logo, ( 21 x 3) + 1 resulta em:  64
+>> O  64 é par.
+>> Logo,  64 / 2 resulta em:  32
+>> O  32 é par.
+>> Logo,  32 / 2 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  21
+------------------------------
+ 
+Realizando a conjectura para o número:  22
+------------------------------
+>> O  22 é par.
+>> Logo,  22 / 2 resulta em:  11
+>> O  11 é ímpar.
+>> Logo, ( 11 x 3) + 1 resulta em:  34
+>> O  34 é par.
+>> Logo,  34 / 2 resulta em:  17
+>> O  17 é ímpar.
+>> Logo, ( 17 x 3) + 1 resulta em:  52
+>> O  52 é par.
+>> Logo,  52 / 2 resulta em:  26
+>> O  26 é par.
+>> Logo,  26 / 2 resulta em:  13
+>> O  13 é ímpar.
+>> Logo, ( 13 x 3) + 1 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  22
+------------------------------
+ 
+Realizando a conjectura para o número:  23
+------------------------------
+>> O  23 é ímpar.
+>> Logo, ( 23 x 3) + 1 resulta em:  70
+>> O  70 é par.
+>> Logo,  70 / 2 resulta em:  35
+>> O  35 é ímpar.
+>> Logo, ( 35 x 3) + 1 resulta em:  106
+>> O  106 é par.
+>> Logo,  106 / 2 resulta em:  53
+>> O  53 é ímpar.
+>> Logo, ( 53 x 3) + 1 resulta em:  160
+>> O  160 é par.
+>> Logo,  160 / 2 resulta em:  80
+>> O  80 é par.
+>> Logo,  80 / 2 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  23
+------------------------------
+ 
+Realizando a conjectura para o número:  24
+------------------------------
+>> O  24 é par.
+>> Logo,  24 / 2 resulta em:  12
+>> O  12 é par.
+>> Logo,  12 / 2 resulta em:  6
+>> O  6 é par.
+>> Logo,  6 / 2 resulta em:  3
+>> O  3 é ímpar.
+>> Logo, ( 3 x 3) + 1 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  24
+------------------------------
+ 
+Realizando a conjectura para o número:  25
+------------------------------
+>> O  25 é ímpar.
+>> Logo, ( 25 x 3) + 1 resulta em:  76
+>> O  76 é par.
+>> Logo,  76 / 2 resulta em:  38
+>> O  38 é par.
+>> Logo,  38 / 2 resulta em:  19
+>> O  19 é ímpar.
+>> Logo, ( 19 x 3) + 1 resulta em:  58
+>> O  58 é par.
+>> Logo,  58 / 2 resulta em:  29
+>> O  29 é ímpar.
+>> Logo, ( 29 x 3) + 1 resulta em:  88
+>> O  88 é par.
+>> Logo,  88 / 2 resulta em:  44
+>> O  44 é par.
+>> Logo,  44 / 2 resulta em:  22
+>> O  22 é par.
+>> Logo,  22 / 2 resulta em:  11
+>> O  11 é ímpar.
+>> Logo, ( 11 x 3) + 1 resulta em:  34
+>> O  34 é par.
+>> Logo,  34 / 2 resulta em:  17
+>> O  17 é ímpar.
+>> Logo, ( 17 x 3) + 1 resulta em:  52
+>> O  52 é par.
+>> Logo,  52 / 2 resulta em:  26
+>> O  26 é par.
+>> Logo,  26 / 2 resulta em:  13
+>> O  13 é ímpar.
+>> Logo, ( 13 x 3) + 1 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  25
+------------------------------
+ 
+Realizando a conjectura para o número:  26
+------------------------------
+>> O  26 é par.
+>> Logo,  26 / 2 resulta em:  13
+>> O  13 é ímpar.
+>> Logo, ( 13 x 3) + 1 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  26
+------------------------------
+ 
+Realizando a conjectura para o número:  27
+------------------------------
+>> O  27 é ímpar.
+>> Logo, ( 27 x 3) + 1 resulta em:  82
+>> O  82 é par.
+>> Logo,  82 / 2 resulta em:  41
+>> O  41 é ímpar.
+>> Logo, ( 41 x 3) + 1 resulta em:  124
+>> O  124 é par.
+>> Logo,  124 / 2 resulta em:  62
+>> O  62 é par.
+>> Logo,  62 / 2 resulta em:  31
+>> O  31 é ímpar.
+>> Logo, ( 31 x 3) + 1 resulta em:  94
+>> O  94 é par.
+>> Logo,  94 / 2 resulta em:  47
+>> O  47 é ímpar.
+>> Logo, ( 47 x 3) + 1 resulta em:  142
+>> O  142 é par.
+>> Logo,  142 / 2 resulta em:  71
+>> O  71 é ímpar.
+>> Logo, ( 71 x 3) + 1 resulta em:  214
+>> O  214 é par.
+>> Logo,  214 / 2 resulta em:  107
+>> O  107 é ímpar.
+>> Logo, ( 107 x 3) + 1 resulta em:  322
+>> O  322 é par.
+>> Logo,  322 / 2 resulta em:  161
+>> O  161 é ímpar.
+>> Logo, ( 161 x 3) + 1 resulta em:  484
+>> O  484 é par.
+>> Logo,  484 / 2 resulta em:  242
+>> O  242 é par.
+>> Logo,  242 / 2 resulta em:  121
+>> O  121 é ímpar.
+>> Logo, ( 121 x 3) + 1 resulta em:  364
+>> O  364 é par.
+>> Logo,  364 / 2 resulta em:  182
+>> O  182 é par.
+>> Logo,  182 / 2 resulta em:  91
+>> O  91 é ímpar.
+>> Logo, ( 91 x 3) + 1 resulta em:  274
+>> O  274 é par.
+>> Logo,  274 / 2 resulta em:  137
+>> O  137 é ímpar.
+>> Logo, ( 137 x 3) + 1 resulta em:  412
+>> O  412 é par.
+>> Logo,  412 / 2 resulta em:  206
+>> O  206 é par.
+>> Logo,  206 / 2 resulta em:  103
+>> O  103 é ímpar.
+>> Logo, ( 103 x 3) + 1 resulta em:  310
+>> O  310 é par.
+>> Logo,  310 / 2 resulta em:  155
+>> O  155 é ímpar.
+>> Logo, ( 155 x 3) + 1 resulta em:  466
+>> O  466 é par.
+>> Logo,  466 / 2 resulta em:  233
+>> O  233 é ímpar.
+>> Logo, ( 233 x 3) + 1 resulta em:  700
+>> O  700 é par.
+>> Logo,  700 / 2 resulta em:  350
+>> O  350 é par.
+>> Logo,  350 / 2 resulta em:  175
+>> O  175 é ímpar.
+>> Logo, ( 175 x 3) + 1 resulta em:  526
+>> O  526 é par.
+>> Logo,  526 / 2 resulta em:  263
+>> O  263 é ímpar.
+>> Logo, ( 263 x 3) + 1 resulta em:  790
+>> O  790 é par.
+>> Logo,  790 / 2 resulta em:  395
+>> O  395 é ímpar.
+>> Logo, ( 395 x 3) + 1 resulta em:  1186
+>> O  1186 é par.
+>> Logo,  1186 / 2 resulta em:  593
+>> O  593 é ímpar.
+>> Logo, ( 593 x 3) + 1 resulta em:  1780
+>> O  1780 é par.
+>> Logo,  1780 / 2 resulta em:  890
+>> O  890 é par.
+>> Logo,  890 / 2 resulta em:  445
+>> O  445 é ímpar.
+>> Logo, ( 445 x 3) + 1 resulta em:  1336
+>> O  1336 é par.
+>> Logo,  1336 / 2 resulta em:  668
+>> O  668 é par.
+>> Logo,  668 / 2 resulta em:  334
+>> O  334 é par.
+>> Logo,  334 / 2 resulta em:  167
+>> O  167 é ímpar.
+>> Logo, ( 167 x 3) + 1 resulta em:  502
+>> O  502 é par.
+>> Logo,  502 / 2 resulta em:  251
+>> O  251 é ímpar.
+>> Logo, ( 251 x 3) + 1 resulta em:  754
+>> O  754 é par.
+>> Logo,  754 / 2 resulta em:  377
+>> O  377 é ímpar.
+>> Logo, ( 377 x 3) + 1 resulta em:  1132
+>> O  1132 é par.
+>> Logo,  1132 / 2 resulta em:  566
+>> O  566 é par.
+>> Logo,  566 / 2 resulta em:  283
+>> O  283 é ímpar.
+>> Logo, ( 283 x 3) + 1 resulta em:  850
+>> O  850 é par.
+>> Logo,  850 / 2 resulta em:  425
+>> O  425 é ímpar.
+>> Logo, ( 425 x 3) + 1 resulta em:  1276
+>> O  1276 é par.
+>> Logo,  1276 / 2 resulta em:  638
+>> O  638 é par.
+>> Logo,  638 / 2 resulta em:  319
+>> O  319 é ímpar.
+>> Logo, ( 319 x 3) + 1 resulta em:  958
+>> O  958 é par.
+>> Logo,  958 / 2 resulta em:  479
+>> O  479 é ímpar.
+>> Logo, ( 479 x 3) + 1 resulta em:  1438
+>> O  1438 é par.
+>> Logo,  1438 / 2 resulta em:  719
+>> O  719 é ímpar.
+>> Logo, ( 719 x 3) + 1 resulta em:  2158
+>> O  2158 é par.
+>> Logo,  2158 / 2 resulta em:  1079
+>> O  1079 é ímpar.
+>> Logo, ( 1079 x 3) + 1 resulta em:  3238
+>> O  3238 é par.
+>> Logo,  3238 / 2 resulta em:  1619
+>> O  1619 é ímpar.
+>> Logo, ( 1619 x 3) + 1 resulta em:  4858
+>> O  4858 é par.
+>> Logo,  4858 / 2 resulta em:  2429
+>> O  2429 é ímpar.
+>> Logo, ( 2429 x 3) + 1 resulta em:  7288
+>> O  7288 é par.
+>> Logo,  7288 / 2 resulta em:  3644
+>> O  3644 é par.
+>> Logo,  3644 / 2 resulta em:  1822
+>> O  1822 é par.
+>> Logo,  1822 / 2 resulta em:  911
+>> O  911 é ímpar.
+>> Logo, ( 911 x 3) + 1 resulta em:  2734
+>> O  2734 é par.
+>> Logo,  2734 / 2 resulta em:  1367
+>> O  1367 é ímpar.
+>> Logo, ( 1367 x 3) + 1 resulta em:  4102
+>> O  4102 é par.
+>> Logo,  4102 / 2 resulta em:  2051
+>> O  2051 é ímpar.
+>> Logo, ( 2051 x 3) + 1 resulta em:  6154
+>> O  6154 é par.
+>> Logo,  6154 / 2 resulta em:  3077
+>> O  3077 é ímpar.
+>> Logo, ( 3077 x 3) + 1 resulta em:  9232
+>> O  9232 é par.
+>> Logo,  9232 / 2 resulta em:  4616
+>> O  4616 é par.
+>> Logo,  4616 / 2 resulta em:  2308
+>> O  2308 é par.
+>> Logo,  2308 / 2 resulta em:  1154
+>> O  1154 é par.
+>> Logo,  1154 / 2 resulta em:  577
+>> O  577 é ímpar.
+>> Logo, ( 577 x 3) + 1 resulta em:  1732
+>> O  1732 é par.
+>> Logo,  1732 / 2 resulta em:  866
+>> O  866 é par.
+>> Logo,  866 / 2 resulta em:  433
+>> O  433 é ímpar.
+>> Logo, ( 433 x 3) + 1 resulta em:  1300
+>> O  1300 é par.
+>> Logo,  1300 / 2 resulta em:  650
+>> O  650 é par.
+>> Logo,  650 / 2 resulta em:  325
+>> O  325 é ímpar.
+>> Logo, ( 325 x 3) + 1 resulta em:  976
+>> O  976 é par.
+>> Logo,  976 / 2 resulta em:  488
+>> O  488 é par.
+>> Logo,  488 / 2 resulta em:  244
+>> O  244 é par.
+>> Logo,  244 / 2 resulta em:  122
+>> O  122 é par.
+>> Logo,  122 / 2 resulta em:  61
+>> O  61 é ímpar.
+>> Logo, ( 61 x 3) + 1 resulta em:  184
+>> O  184 é par.
+>> Logo,  184 / 2 resulta em:  92
+>> O  92 é par.
+>> Logo,  92 / 2 resulta em:  46
+>> O  46 é par.
+>> Logo,  46 / 2 resulta em:  23
+>> O  23 é ímpar.
+>> Logo, ( 23 x 3) + 1 resulta em:  70
+>> O  70 é par.
+>> Logo,  70 / 2 resulta em:  35
+>> O  35 é ímpar.
+>> Logo, ( 35 x 3) + 1 resulta em:  106
+>> O  106 é par.
+>> Logo,  106 / 2 resulta em:  53
+>> O  53 é ímpar.
+>> Logo, ( 53 x 3) + 1 resulta em:  160
+>> O  160 é par.
+>> Logo,  160 / 2 resulta em:  80
+>> O  80 é par.
+>> Logo,  80 / 2 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  27
+------------------------------
+ 
+Realizando a conjectura para o número:  28
+------------------------------
+>> O  28 é par.
+>> Logo,  28 / 2 resulta em:  14
+>> O  14 é par.
+>> Logo,  14 / 2 resulta em:  7
+>> O  7 é ímpar.
+>> Logo, ( 7 x 3) + 1 resulta em:  22
+>> O  22 é par.
+>> Logo,  22 / 2 resulta em:  11
+>> O  11 é ímpar.
+>> Logo, ( 11 x 3) + 1 resulta em:  34
+>> O  34 é par.
+>> Logo,  34 / 2 resulta em:  17
+>> O  17 é ímpar.
+>> Logo, ( 17 x 3) + 1 resulta em:  52
+>> O  52 é par.
+>> Logo,  52 / 2 resulta em:  26
+>> O  26 é par.
+>> Logo,  26 / 2 resulta em:  13
+>> O  13 é ímpar.
+>> Logo, ( 13 x 3) + 1 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  28
+------------------------------
+ 
+Realizando a conjectura para o número:  29
+------------------------------
+>> O  29 é ímpar.
+>> Logo, ( 29 x 3) + 1 resulta em:  88
+>> O  88 é par.
+>> Logo,  88 / 2 resulta em:  44
+>> O  44 é par.
+>> Logo,  44 / 2 resulta em:  22
+>> O  22 é par.
+>> Logo,  22 / 2 resulta em:  11
+>> O  11 é ímpar.
+>> Logo, ( 11 x 3) + 1 resulta em:  34
+>> O  34 é par.
+>> Logo,  34 / 2 resulta em:  17
+>> O  17 é ímpar.
+>> Logo, ( 17 x 3) + 1 resulta em:  52
+>> O  52 é par.
+>> Logo,  52 / 2 resulta em:  26
+>> O  26 é par.
+>> Logo,  26 / 2 resulta em:  13
+>> O  13 é ímpar.
+>> Logo, ( 13 x 3) + 1 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  29
+------------------------------
+ 
+Realizando a conjectura para o número:  30
+------------------------------
+>> O  30 é par.
+>> Logo,  30 / 2 resulta em:  15
+>> O  15 é ímpar.
+>> Logo, ( 15 x 3) + 1 resulta em:  46
+>> O  46 é par.
+>> Logo,  46 / 2 resulta em:  23
+>> O  23 é ímpar.
+>> Logo, ( 23 x 3) + 1 resulta em:  70
+>> O  70 é par.
+>> Logo,  70 / 2 resulta em:  35
+>> O  35 é ímpar.
+>> Logo, ( 35 x 3) + 1 resulta em:  106
+>> O  106 é par.
+>> Logo,  106 / 2 resulta em:  53
+>> O  53 é ímpar.
+>> Logo, ( 53 x 3) + 1 resulta em:  160
+>> O  160 é par.
+>> Logo,  160 / 2 resulta em:  80
+>> O  80 é par.
+>> Logo,  80 / 2 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  30
+------------------------------
+ 
+Realizando a conjectura para o número:  31
+------------------------------
+>> O  31 é ímpar.
+>> Logo, ( 31 x 3) + 1 resulta em:  94
+>> O  94 é par.
+>> Logo,  94 / 2 resulta em:  47
+>> O  47 é ímpar.
+>> Logo, ( 47 x 3) + 1 resulta em:  142
+>> O  142 é par.
+>> Logo,  142 / 2 resulta em:  71
+>> O  71 é ímpar.
+>> Logo, ( 71 x 3) + 1 resulta em:  214
+>> O  214 é par.
+>> Logo,  214 / 2 resulta em:  107
+>> O  107 é ímpar.
+>> Logo, ( 107 x 3) + 1 resulta em:  322
+>> O  322 é par.
+>> Logo,  322 / 2 resulta em:  161
+>> O  161 é ímpar.
+>> Logo, ( 161 x 3) + 1 resulta em:  484
+>> O  484 é par.
+>> Logo,  484 / 2 resulta em:  242
+>> O  242 é par.
+>> Logo,  242 / 2 resulta em:  121
+>> O  121 é ímpar.
+>> Logo, ( 121 x 3) + 1 resulta em:  364
+>> O  364 é par.
+>> Logo,  364 / 2 resulta em:  182
+>> O  182 é par.
+>> Logo,  182 / 2 resulta em:  91
+>> O  91 é ímpar.
+>> Logo, ( 91 x 3) + 1 resulta em:  274
+>> O  274 é par.
+>> Logo,  274 / 2 resulta em:  137
+>> O  137 é ímpar.
+>> Logo, ( 137 x 3) + 1 resulta em:  412
+>> O  412 é par.
+>> Logo,  412 / 2 resulta em:  206
+>> O  206 é par.
+>> Logo,  206 / 2 resulta em:  103
+>> O  103 é ímpar.
+>> Logo, ( 103 x 3) + 1 resulta em:  310
+>> O  310 é par.
+>> Logo,  310 / 2 resulta em:  155
+>> O  155 é ímpar.
+>> Logo, ( 155 x 3) + 1 resulta em:  466
+>> O  466 é par.
+>> Logo,  466 / 2 resulta em:  233
+>> O  233 é ímpar.
+>> Logo, ( 233 x 3) + 1 resulta em:  700
+>> O  700 é par.
+>> Logo,  700 / 2 resulta em:  350
+>> O  350 é par.
+>> Logo,  350 / 2 resulta em:  175
+>> O  175 é ímpar.
+>> Logo, ( 175 x 3) + 1 resulta em:  526
+>> O  526 é par.
+>> Logo,  526 / 2 resulta em:  263
+>> O  263 é ímpar.
+>> Logo, ( 263 x 3) + 1 resulta em:  790
+>> O  790 é par.
+>> Logo,  790 / 2 resulta em:  395
+>> O  395 é ímpar.
+>> Logo, ( 395 x 3) + 1 resulta em:  1186
+>> O  1186 é par.
+>> Logo,  1186 / 2 resulta em:  593
+>> O  593 é ímpar.
+>> Logo, ( 593 x 3) + 1 resulta em:  1780
+>> O  1780 é par.
+>> Logo,  1780 / 2 resulta em:  890
+>> O  890 é par.
+>> Logo,  890 / 2 resulta em:  445
+>> O  445 é ímpar.
+>> Logo, ( 445 x 3) + 1 resulta em:  1336
+>> O  1336 é par.
+>> Logo,  1336 / 2 resulta em:  668
+>> O  668 é par.
+>> Logo,  668 / 2 resulta em:  334
+>> O  334 é par.
+>> Logo,  334 / 2 resulta em:  167
+>> O  167 é ímpar.
+>> Logo, ( 167 x 3) + 1 resulta em:  502
+>> O  502 é par.
+>> Logo,  502 / 2 resulta em:  251
+>> O  251 é ímpar.
+>> Logo, ( 251 x 3) + 1 resulta em:  754
+>> O  754 é par.
+>> Logo,  754 / 2 resulta em:  377
+>> O  377 é ímpar.
+>> Logo, ( 377 x 3) + 1 resulta em:  1132
+>> O  1132 é par.
+>> Logo,  1132 / 2 resulta em:  566
+>> O  566 é par.
+>> Logo,  566 / 2 resulta em:  283
+>> O  283 é ímpar.
+>> Logo, ( 283 x 3) + 1 resulta em:  850
+>> O  850 é par.
+>> Logo,  850 / 2 resulta em:  425
+>> O  425 é ímpar.
+>> Logo, ( 425 x 3) + 1 resulta em:  1276
+>> O  1276 é par.
+>> Logo,  1276 / 2 resulta em:  638
+>> O  638 é par.
+>> Logo,  638 / 2 resulta em:  319
+>> O  319 é ímpar.
+>> Logo, ( 319 x 3) + 1 resulta em:  958
+>> O  958 é par.
+>> Logo,  958 / 2 resulta em:  479
+>> O  479 é ímpar.
+>> Logo, ( 479 x 3) + 1 resulta em:  1438
+>> O  1438 é par.
+>> Logo,  1438 / 2 resulta em:  719
+>> O  719 é ímpar.
+>> Logo, ( 719 x 3) + 1 resulta em:  2158
+>> O  2158 é par.
+>> Logo,  2158 / 2 resulta em:  1079
+>> O  1079 é ímpar.
+>> Logo, ( 1079 x 3) + 1 resulta em:  3238
+>> O  3238 é par.
+>> Logo,  3238 / 2 resulta em:  1619
+>> O  1619 é ímpar.
+>> Logo, ( 1619 x 3) + 1 resulta em:  4858
+>> O  4858 é par.
+>> Logo,  4858 / 2 resulta em:  2429
+>> O  2429 é ímpar.
+>> Logo, ( 2429 x 3) + 1 resulta em:  7288
+>> O  7288 é par.
+>> Logo,  7288 / 2 resulta em:  3644
+>> O  3644 é par.
+>> Logo,  3644 / 2 resulta em:  1822
+>> O  1822 é par.
+>> Logo,  1822 / 2 resulta em:  911
+>> O  911 é ímpar.
+>> Logo, ( 911 x 3) + 1 resulta em:  2734
+>> O  2734 é par.
+>> Logo,  2734 / 2 resulta em:  1367
+>> O  1367 é ímpar.
+>> Logo, ( 1367 x 3) + 1 resulta em:  4102
+>> O  4102 é par.
+>> Logo,  4102 / 2 resulta em:  2051
+>> O  2051 é ímpar.
+>> Logo, ( 2051 x 3) + 1 resulta em:  6154
+>> O  6154 é par.
+>> Logo,  6154 / 2 resulta em:  3077
+>> O  3077 é ímpar.
+>> Logo, ( 3077 x 3) + 1 resulta em:  9232
+>> O  9232 é par.
+>> Logo,  9232 / 2 resulta em:  4616
+>> O  4616 é par.
+>> Logo,  4616 / 2 resulta em:  2308
+>> O  2308 é par.
+>> Logo,  2308 / 2 resulta em:  1154
+>> O  1154 é par.
+>> Logo,  1154 / 2 resulta em:  577
+>> O  577 é ímpar.
+>> Logo, ( 577 x 3) + 1 resulta em:  1732
+>> O  1732 é par.
+>> Logo,  1732 / 2 resulta em:  866
+>> O  866 é par.
+>> Logo,  866 / 2 resulta em:  433
+>> O  433 é ímpar.
+>> Logo, ( 433 x 3) + 1 resulta em:  1300
+>> O  1300 é par.
+>> Logo,  1300 / 2 resulta em:  650
+>> O  650 é par.
+>> Logo,  650 / 2 resulta em:  325
+>> O  325 é ímpar.
+>> Logo, ( 325 x 3) + 1 resulta em:  976
+>> O  976 é par.
+>> Logo,  976 / 2 resulta em:  488
+>> O  488 é par.
+>> Logo,  488 / 2 resulta em:  244
+>> O  244 é par.
+>> Logo,  244 / 2 resulta em:  122
+>> O  122 é par.
+>> Logo,  122 / 2 resulta em:  61
+>> O  61 é ímpar.
+>> Logo, ( 61 x 3) + 1 resulta em:  184
+>> O  184 é par.
+>> Logo,  184 / 2 resulta em:  92
+>> O  92 é par.
+>> Logo,  92 / 2 resulta em:  46
+>> O  46 é par.
+>> Logo,  46 / 2 resulta em:  23
+>> O  23 é ímpar.
+>> Logo, ( 23 x 3) + 1 resulta em:  70
+>> O  70 é par.
+>> Logo,  70 / 2 resulta em:  35
+>> O  35 é ímpar.
+>> Logo, ( 35 x 3) + 1 resulta em:  106
+>> O  106 é par.
+>> Logo,  106 / 2 resulta em:  53
+>> O  53 é ímpar.
+>> Logo, ( 53 x 3) + 1 resulta em:  160
+>> O  160 é par.
+>> Logo,  160 / 2 resulta em:  80
+>> O  80 é par.
+>> Logo,  80 / 2 resulta em:  40
+>> O  40 é par.
+>> Logo,  40 / 2 resulta em:  20
+>> O  20 é par.
+>> Logo,  20 / 2 resulta em:  10
+>> O  10 é par.
+>> Logo,  10 / 2 resulta em:  5
+>> O  5 é ímpar.
+>> Logo, ( 5 x 3) + 1 resulta em:  16
+>> O  16 é par.
+>> Logo,  16 / 2 resulta em:  8
+>> O  8 é par.
+>> Logo,  8 / 2 resulta em:  4
+>> O  4 é par.
+>> Logo,  4 / 2 resulta em:  2
+>> O  2 é par.
+>> Logo,  2 / 2 resulta em:  1
+ 
+>> Sendo  1 o resultado final da conjectura do número  31
+------------------------------
+ 
+Conclusão: É  VERDADEIRO que todos os números até  31 resultam em 1.
+
+>>> Fim da execução do programa !
+  
