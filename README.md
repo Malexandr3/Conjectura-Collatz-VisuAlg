@@ -1,4 +1,4 @@
-# Conjectura de Collatz em VisuAlg
+# Conjectura de Collatz em Portugol (VisuAlg)
 
 ## 🏛️ Universidade Estadual do Maranhão - UEMA  
 **Curso:** Engenharia da Computação  
