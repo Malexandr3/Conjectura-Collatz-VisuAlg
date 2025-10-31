@@ -152,7 +152,7 @@ O projeto demonstra a importância da **computação na matemática**, evidencia
 │
 ├── 📄 README.md
 ├── 📜 ConjecturaCollatz.alg
-└── 📘 Explicacao.pdf
+└── 📄 Conjectura Collatz - Resultado até 31.txt
 ```
 
 ---
